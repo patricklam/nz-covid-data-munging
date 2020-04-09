@@ -14,7 +14,7 @@ and did standard analyses on the numbers. I manually fixed cases where the date 
 in those cases it looks like the month was incorrectly entered.
 
 | stat | # |
-| --- | --- :|
+|-----|-----:|
 | count	|487|
 | mean	|7.04|
 | median	|6|
