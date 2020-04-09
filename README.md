@@ -13,14 +13,16 @@ Here's the result of my data analysis as of April 9.
 and did standard analyses on the numbers. I manually fixed cases where the date reported was before the date arrived;
 in those cases it looks like the month was incorrectly entered.
 
-> count	487
-> mean	7.04
-> median	6
-> mode	4
-> max	26
-> stdev	4.2
-> days > 14	26
-> % days > 14	5.34%
+| stat | # |
+| --- | --- :|
+| count	|487|
+| mean	|7.04|
+| median	|6|
+| mode	|4|
+| max	|26|
+| stdev	|4.2|
+| days > 14	|26|
+| % days > 14	|5.34%|
 
 2. How many of the new cases per day are made-in-NZ? The government used to report international vs close contacts vs community transmission, but now it only reports international-or-not. But that's still enough data to figure out how many cases per day are not international.
 
